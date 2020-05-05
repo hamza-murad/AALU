@@ -61,11 +61,11 @@ gestureGlobal = None
 
 def fetchFrame():
     global ret
-    print("starting IP camera handler at 'http://murad:achalambarasta@192.168.0.101:8080/video'")
+    print("starting IP camera handler")
     global latest_camera_frame
     global last_written_frame
     global frame_ID
-    cam = cv2.VideoCapture('http://murad:achalambarasta@192.168.0.101:8080/video')
+    cam = cv2.VideoCapture('http://username:password@192.168.0.101:8080/video')
     # cam = cv2.VideoCapture(0)
     print("Starting to write frames")
     while True:
@@ -73,7 +73,7 @@ def fetchFrame():
         if ret:
             frame_ID += 1
         if not ret:
-            print("Lost connection to 'http://murad:achalambarasta@192.168.0.101:8080/video'")
+            print("Lost connection to 'http://username:password@192.168.0.101:8080/video'")
             break;
         if not frame_ID % 10:
             cv2.imwrite("./img/"+str(frame_ID)+".jpg", latest_camera_frame)
@@ -157,7 +157,6 @@ def faceThread():
 
     # starting video streaming
 
-    # camera = cv2.VideoCapture('http://murad:achalambarasta@192.168.1.103:8080/video')
     # camera = cv2.VideoCapture(0)
     detector = dlib.get_frontal_face_detector()
     predictor = dlib.shape_predictor(face_landmark_path)
