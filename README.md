@@ -49,7 +49,7 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 9. [Habiba Akram]()
 
 ### CV Team
-1. [Hamza Murad]()
+1. [Hamza Murad](https://github.com/hamza-murad)
 2. [Muhammad Bilal]()
 3. [Abou Sufiyan]()
 4. [Ali Zahid]()
