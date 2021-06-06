@@ -66,6 +66,11 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 4. [Umair Ahmed]()
 5. [Maryam Nizam](https://github.com/MaryamNizam)
 
+## Inegration Team
+1. [Mubariz Barkat](https://github.com/Cyna298)
+2. [Wasiq Malik](https://github.com/WasiqMalik)
+3. [Malik Muhammad Mujtaba](https://github.com/M-M-Mujtaba)
+
 ## Backend Team
 1. [Sharjeel Hassan]()
 2. [Sana Basharat]()
