@@ -37,10 +37,10 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 
 # Contributions
 ### NLP Team
-1. [Muhammad Wasiq]()
+1. [Muhammad Wasiq](https://github.com/WasiqMalik)
 2. [Hadi Amjad](https://github.com/hadiamjad)
-3. [Ather Fawaz]()
-4. [Muhammad Adan]()
+3. [Ather Fawaz](https://github.com/atherfawaz)
+4. [Muhammad Adan](https://github.com/SovereignGhost)
 5. [Usman Khan]()
 6. [Daniyal Tahir]()
 7. [Arsylan Sheikh]()
@@ -60,9 +60,7 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 10. [Taha Khan]()
 
 ## Modelling Team
-1. [Mubariz Barkat]()
-2. [Muhammad Mujtaba]()
-3. [Feza Roheel]()
+1. [Mubariz Barkat](https://github.com/Cyna298)
 4. [Umair Ahmed]()
 5. [Maryam Nizam](https://github.com/MaryamNizam)
 
@@ -70,6 +68,7 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 1. [Mubariz Barkat](https://github.com/Cyna298)
 2. [Wasiq Malik](https://github.com/WasiqMalik)
 3. [Malik Muhammad Mujtaba](https://github.com/M-M-Mujtaba)
+4. [Feza Roheel](https://github.com/froheel)
 
 ## Backend Team
 1. [Sharjeel Hassan]()
