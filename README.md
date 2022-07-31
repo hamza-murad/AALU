@@ -73,7 +73,7 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 ## Backend Team
 1. [Sharjeel Hassan]()
 2. [Sana Basharat]()
-3. [Hmaza Jawad]()
+3. [Hamza Jawad]()
 
 License
 ----
